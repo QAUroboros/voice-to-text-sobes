@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+*.log
+
+# VSCode (если вдруг используешь)
+.vscode/
